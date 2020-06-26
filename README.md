@@ -12,24 +12,24 @@ A continuación conoce cual fue nuestro proceso para lograrlo:
 
 ÍNDICE:
 
-[Guía de Entrevistas con Usuarios de Grupo Ámate](https://docs.google.com/document/d/1VmFEzIyuXxoRSUxNsJu_9O-RgXgwFUjW0NYLk697rjo/edit#)
+[Guía de Entrevistas con Usuarios de Grupo Ámate | Word](https://docs.google.com/document/d/1VmFEzIyuXxoRSUxNsJu_9O-RgXgwFUjW0NYLk697rjo/edit#)
 
-[Guía de Entrevistas con Usuarios Potenciales](https://docs.google.com/document/d/1M6nLyq0gWD3bNMFYezib41bid2NV_Rif_UUc71n6t9o/edit#heading=h.icr2x84ig3zk) 
+[Guía de Entrevistas con Usuarios Potenciales | Word](https://docs.google.com/document/d/1M6nLyq0gWD3bNMFYezib41bid2NV_Rif_UUc71n6t9o/edit#heading=h.icr2x84ig3zk) 
 
-[Guía de Testing con Usuarios](https://docs.google.com/document/d/1_Ca-8QgwHnFRXcJ1gbCDE7Md6mjDP_bcExew-kyWOVU/edit) 
+[Guía de Testing con Usuarios | Word](https://docs.google.com/document/d/1_Ca-8QgwHnFRXcJ1gbCDE7Md6mjDP_bcExew-kyWOVU/edit) 
 
-[Entrevistas y Testeos con Usuarios](https://drive.google.com/drive/folders/19YpIAcr1v35j0htL8TIXUaUKayM8dWTo)
+[Entrevistas y Testeos con Usuarios | Video & Audio](https://drive.google.com/drive/folders/19YpIAcr1v35j0htL8TIXUaUKayM8dWTo)
 
-[Empathy Map](https://drive.google.com/drive/folders/1KrmBggG8XRfS17gm3CoqxHk2HcuOL92E)
+[Empathy Map | PNG](https://drive.google.com/drive/folders/1KrmBggG8XRfS17gm3CoqxHk2HcuOL92E)
 
-[User Persona](https://drive.google.com/drive/folders/1KrmBggG8XRfS17gm3CoqxHk2HcuOL92E)
+[User Persona | PNG](https://drive.google.com/drive/folders/1KrmBggG8XRfS17gm3CoqxHk2HcuOL92E)
 
-[Journey Map](https://drive.google.com/drive/folders/1KrmBggG8XRfS17gm3CoqxHk2HcuOL92E)
+[Journey Map | PNG](https://drive.google.com/drive/folders/1KrmBggG8XRfS17gm3CoqxHk2HcuOL92E)
 
-[Site Map](https://drive.google.com/drive/folders/1KrmBggG8XRfS17gm3CoqxHk2HcuOL92E)
+[Site Map | PNG](https://drive.google.com/drive/folders/1KrmBggG8XRfS17gm3CoqxHk2HcuOL92E)
 
 [Figma Proyecto](https://www.figma.com/proto/rucEWhSlq3XgGdnqPcZKlm/Prototipo-Final-%C3%81mate?node-id=911%3A6843&scaling=contain)
 
-[ZEPLIN](Falta)
+[Zeplin](https://zpl.io/2EN1eGg)
 
-[Presentación Final](https://www.canva.com/design/DAD_oyQmsAI/Y1ltborsy3vj1Xlq1HpOJA/view?utm_content=DAD_oyQmsAI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+[Presentación Final | Canva](https://www.canva.com/design/DAD_oyQmsAI/Y1ltborsy3vj1Xlq1HpOJA/view?utm_content=DAD_oyQmsAI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
