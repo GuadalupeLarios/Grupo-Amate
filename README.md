@@ -1,5 +1,4 @@
 # UX CHALLENGE - Grupo Ámate
-Infografía descriptiva de la solución propuesta a Grupo Ámate 
 
 El COVID-19 ha cambiado las interacciones en casi todos los ámbitos incluido el comercio de productos y servicios. La dinámica del mercado como tradicionalmente la conocíamos ya no es sostenible es por eso  que GRUPO ÁMATE al igual que muchos emprendedores en Perú y el mundo están atravesando por un rediseño de negocio para llegar a sus usuarios.
 
