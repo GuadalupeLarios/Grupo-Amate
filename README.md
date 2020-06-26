@@ -2,7 +2,7 @@
 
 El COVID-19 ha cambiado las interacciones en casi todos los ámbitos incluido el comercio de productos y servicios. La dinámica del mercado como tradicionalmente la conocíamos ya no es sostenible es por eso  que GRUPO ÁMATE al igual que muchos emprendedores en Perú y el mundo están atravesando por un rediseño de negocio para llegar a sus usuarios.
 
-El objetivo principal de aprendizaje de este proyecto es entender ¿cómo pasamos de lo que un cliente quiere alcanzar a la definición de un producto digital en poco tiempo? 
+El objetivo principal de aprendizaje de este proyecto fue entender ¿Cómo pasamos de lo que un cliente quiere alcanzar a la definición de un producto digital en poco tiempo? 
 A continuación conoce cual fue nuestro proceso para lograrlo:
 
 ![Grupo Ámate (1)](https://user-images.githubusercontent.com/60905476/85802469-a0969300-b70a-11ea-84bf-e024d1eee8db.png)
@@ -20,10 +20,16 @@ A continuación conoce cual fue nuestro proceso para lograrlo:
 
 [Entrevistas y Testeos con Usuarios](https://drive.google.com/drive/folders/19YpIAcr1v35j0htL8TIXUaUKayM8dWTo)
 
-[User Persona](Falta)
+[Empathy Map](https://drive.google.com/drive/folders/1KrmBggG8XRfS17gm3CoqxHk2HcuOL92E)
 
-[Journey Map](Falta)
+[User Persona](https://drive.google.com/drive/folders/1KrmBggG8XRfS17gm3CoqxHk2HcuOL92E)
 
-[Figma Proyecto](Falta)
+[Journey Map](https://drive.google.com/drive/folders/1KrmBggG8XRfS17gm3CoqxHk2HcuOL92E)
+
+[Site Map](https://drive.google.com/drive/folders/1KrmBggG8XRfS17gm3CoqxHk2HcuOL92E)
+
+[Figma Proyecto](https://www.figma.com/proto/rucEWhSlq3XgGdnqPcZKlm/Prototipo-Final-%C3%81mate?node-id=911%3A6843&scaling=contain)
 
 [ZEPLIN](Falta)
+
+[Presentación Final](https://www.canva.com/design/DAD_oyQmsAI/Y1ltborsy3vj1Xlq1HpOJA/view?utm_content=DAD_oyQmsAI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
