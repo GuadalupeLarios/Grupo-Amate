@@ -7,14 +7,13 @@ A continuación conoce cual fue nuestro proceso para lograrlo:
 
 ##
 
-
 ![Grupo Ámate (1)](https://user-images.githubusercontent.com/60905476/85802469-a0969300-b70a-11ea-84bf-e024d1eee8db.png)
 ![Grupo Ámate (2)](https://user-images.githubusercontent.com/60905476/85802472-a1c7c000-b70a-11ea-836d-3a3954958609.png)
 ![Grupo Ámate (3)](https://user-images.githubusercontent.com/60905476/85802479-a55b4700-b70a-11ea-86e0-589b51114e75.png)
 ![Grupo Ámate (4)](https://user-images.githubusercontent.com/60905476/85802482-a68c7400-b70a-11ea-8bb6-cb2716f7f505.png)
 
 
-### :arrow_right:   ÍNDICE ENTREGABLES:
+### :arrow_right:  ÍNDICE ENTREGABLES:
 
 [Guía de Entrevistas con Usuarios de Grupo Ámate | Word](https://docs.google.com/document/d/1VmFEzIyuXxoRSUxNsJu_9O-RgXgwFUjW0NYLk697rjo/edit#)
 
@@ -43,5 +42,7 @@ A continuación conoce cual fue nuestro proceso para lograrlo:
 
 ##
 
+
 Proyecto realizado en Junio 2020 por Adonai Lagunes, Elizabeth Olmedo, Etna Sanchez, Guadalupe Larios, Leslie Benel y Leydi Torres.
-#### Laboratoria, UX CDMX009-LIM012.
+**LABORATORIA, UX CDMX009-LIM012.**
+
