@@ -5,6 +5,8 @@ El COVID-19 ha cambiado las interacciones en casi todos los ámbitos incluido el
 El objetivo principal de aprendizaje de este proyecto fue entender ¿Cómo pasamos de lo que un cliente quiere alcanzar a la definición de un producto digital en poco tiempo? 
 A continuación conoce cual fue nuestro proceso para lograrlo:
 
+##
+
 
 ![Grupo Ámate (1)](https://user-images.githubusercontent.com/60905476/85802469-a0969300-b70a-11ea-84bf-e024d1eee8db.png)
 ![Grupo Ámate (2)](https://user-images.githubusercontent.com/60905476/85802472-a1c7c000-b70a-11ea-836d-3a3954958609.png)
@@ -12,7 +14,7 @@ A continuación conoce cual fue nuestro proceso para lograrlo:
 ![Grupo Ámate (4)](https://user-images.githubusercontent.com/60905476/85802482-a68c7400-b70a-11ea-8bb6-cb2716f7f505.png)
 
 
-### :arrow_right:   ÍNDICE:
+### :arrow_right:   ÍNDICE ENTREGABLES:
 
 [Guía de Entrevistas con Usuarios de Grupo Ámate | Word](https://docs.google.com/document/d/1VmFEzIyuXxoRSUxNsJu_9O-RgXgwFUjW0NYLk697rjo/edit#)
 
@@ -39,6 +41,7 @@ A continuación conoce cual fue nuestro proceso para lograrlo:
 [Presentación Final | Canva](https://www.canva.com/design/DAD_oyQmsAI/Y1ltborsy3vj1Xlq1HpOJA/view?utm_content=DAD_oyQmsAI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 
+##
 
-#### Proyecto realizado en Junio 2020 por Adonai Lagunes, Elizabeth Olmedo, Etna Sanchez, Guadalupe Larios, Leslie Benel y Leydi Torres.
-### Laboratoria, UX CDMX009-LIM012.
+Proyecto realizado en Junio 2020 por Adonai Lagunes, Elizabeth Olmedo, Etna Sanchez, Guadalupe Larios, Leslie Benel y Leydi Torres.
+#### Laboratoria, UX CDMX009-LIM012.
