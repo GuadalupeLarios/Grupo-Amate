@@ -29,7 +29,7 @@ A continuación conoce cual fue nuestro proceso para lograrlo:
 
 [Journey Map | PNG](https://drive.google.com/drive/folders/1KrmBggG8XRfS17gm3CoqxHk2HcuOL92E)
 
-[Site Map | PNG](![sitemap](https://user-images.githubusercontent.com/60905476/89476057-5106a680-d74f-11ea-8f86-30ebe503ae19.png))
+[Site Map | PNG](https://user-images.githubusercontent.com/60905476/89476057-5106a680-d74f-11ea-8f86-30ebe503ae19.png)
 
 [Figma Proyecto](https://www.figma.com/proto/rucEWhSlq3XgGdnqPcZKlm/Prototipo-Final-%C3%81mate?node-id=911%3A6843&scaling=contain)
 
