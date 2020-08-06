@@ -23,11 +23,11 @@ A continuación conoce cual fue nuestro proceso para lograrlo:
 
 [Entrevistas y Testeos con Usuarios | Video & Audio](https://drive.google.com/drive/folders/19YpIAcr1v35j0htL8TIXUaUKayM8dWTo)
 
-[Empathy Map | PNG](https://drive.google.com/drive/folders/1KrmBggG8XRfS17gm3CoqxHk2HcuOL92E)
+[Empathy Map | PNG](https://user-images.githubusercontent.com/60905476/89476756-24538e80-d751-11ea-9590-4598b260c05e.jpg)
 
-[User Persona | PNG](https://drive.google.com/drive/folders/1KrmBggG8XRfS17gm3CoqxHk2HcuOL92E)
+[User Persona | JPG](https://user-images.githubusercontent.com/60905476/89476632-d5a5f480-d750-11ea-9e10-60715b424efb.jpg)
 
-[Journey Map | PNG](https://drive.google.com/drive/folders/1KrmBggG8XRfS17gm3CoqxHk2HcuOL92E)
+[Journey Map | PNG](https://user-images.githubusercontent.com/60905476/89476521-8233a680-d750-11ea-802b-6e03f864c206.png)
 
 [Site Map | PNG](https://user-images.githubusercontent.com/60905476/89476057-5106a680-d74f-11ea-8f86-30ebe503ae19.png)
 
