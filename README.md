@@ -1,5 +1,11 @@
 ## UX CHALLENGE - Grupo Ámate
 
+#### Prototipo interactivo:
+
+[Desktop](https://www.figma.com/proto/rucEWhSlq3XgGdnqPcZKlm/Prototipo-Final-%C3%81mate?node-id=911%3A6843&scaling=contain) :computer: 
+
+##
+
 El COVID-19 ha cambiado las interacciones en casi todos los ámbitos incluido el comercio de productos y servicios. La dinámica del mercado como tradicionalmente la conocíamos ya no es sostenible es por eso  que GRUPO ÁMATE al igual que muchos emprendedores en Perú y el mundo están atravesando por un rediseño de negocio para llegar a sus usuarios.
 
 El objetivo principal de aprendizaje de este proyecto fue entender ¿Cómo pasamos de lo que un cliente quiere alcanzar a la definición de un producto digital en poco tiempo? 
@@ -30,8 +36,6 @@ A continuación conoce cual fue nuestro proceso para lograrlo:
 [Journey Map | PNG](https://user-images.githubusercontent.com/60905476/89476521-8233a680-d750-11ea-802b-6e03f864c206.png)
 
 [Site Map | PNG](https://user-images.githubusercontent.com/60905476/89476057-5106a680-d74f-11ea-8f86-30ebe503ae19.png)
-
-[Figma Proyecto](https://www.figma.com/proto/rucEWhSlq3XgGdnqPcZKlm/Prototipo-Final-%C3%81mate?node-id=911%3A6843&scaling=contain)
 
 [Zeplin](https://zpl.io/2EN1eGg)
 
